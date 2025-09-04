@@ -1,6 +1,9 @@
 <!-- Profile README for Its-Seeker -->
 
-<h1 align="center">✨ Hi, I'm <b>Ketan Arora</b> ✨</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ketan+Arora+✨;Web+Developer+%7C+Tech+Enthusiast;Code+Learn+Repeat+%F0%9F%94%81" alt="Typing Animation" />
+</h1>
+
 <h3 align="center">💻 Web Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast</h3>
 
 ---
