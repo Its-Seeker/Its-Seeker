@@ -9,11 +9,12 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 💻 I’m a **Web Developer** passionate about building interactive & modern websites  
-- 🌟 Skilled in: **HTML · CSS · JavaScript · C++**  
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)**  
-- ✨ Fun Fact: **“Code, Learn, Repeat”** 🔁  
-
+💻 Passionate **Full-Stack Web Developer** focused on building scalable web applications
+- 🚀 Tech Stack: **HTML · CSS · JavaScript · React · Node.js · Express.js · MongoDB · C++**
+- 🌱 Currently sharpening my skills in **Backend Development, REST APIs & Data Structures & Algorithms (C++)**
+- 🛠️ Tools: **Git · GitHub · VS Code · Postman · Vercel**
+- 🎯 Goal: **Building production-ready full-stack projects and contributing to open source**
+- ✨ Motto: **"Code • Learn • Build • Repeat"** 🔁
 ---
 
 ## 🧑‍💻 Tech Stack
@@ -32,6 +33,22 @@
       <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><b>Node.js</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="50"/><br><b>Express.js</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br><b>Vercel</b>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="50"/><br><b>Postman</b>
+    </td>
+  </tr>
+
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b>
@@ -42,9 +59,11 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VS Code</b>
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><b>MongoDB</b>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 🌐 Connect with Me
