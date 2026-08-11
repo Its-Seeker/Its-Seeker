@@ -143,22 +143,16 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Its-Seeker&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Seeker&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
-
+GitHub Stats
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Seeker&theme=radical" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Seeker&theme=radical" />
+</div>
+<div align="center">
+  <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Its-Seekerl&theme=radical" />
+</div>
 ---
 
 ## ✅ Contribution Graph
