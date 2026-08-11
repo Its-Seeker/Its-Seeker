@@ -150,9 +150,13 @@ GitHub Stats
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Its-Seeker&theme=radical" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Its-Seeker&theme=radical" />
 </div>
-<!-- <div align="center">
-  <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Its-Seekerl&theme=radical" />
-</div> -->
+<div align="center">
+  <img
+    height="160"
+    src="https://github-readme-streak-stats-eight.vercel.app?user=Its-Seeker&theme=radical"
+    alt="GitHub Streak"
+  />
+</div>
 ---
 
 ## ✅ Contribution Graph
