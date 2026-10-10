@@ -60,11 +60,11 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/><br>
       <b>MongoDB</b>
-    </td>
+    <!-- </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/><br>
       <b>Tailwind CSS</b>
-    </td>
+    </td> -->
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="Vite"/><br>
       <b>Vite</b>
@@ -110,11 +110,11 @@
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/><br>
       <b>MySQL</b>
-    </td>
+    <!-- </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/><br>
       <b>Next.js</b>
-    </td>
+    </td> -->
   </tr>
 </table>
 
